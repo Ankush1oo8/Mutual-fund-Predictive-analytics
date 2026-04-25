@@ -1,5 +1,7 @@
 # Mutual Fund Predictive Analytics
 
+##  App Link -> [https://mutualfundpredictionankush.streamlit.app/](https://mutualfundpredictionankush.streamlit.app/)
+
 ## Abstract
 
 This project predicts expected mutual fund returns for 1-year, 3-year, and 5-year investment horizons using historical mutual fund data, fund characteristics, and machine learning regression models. The project includes a data scraping pipeline, data cleaning script, model experimentation notebooks, a saved deployment pipeline, and a Streamlit application for interactive prediction and analytics.
